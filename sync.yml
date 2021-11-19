@@ -7,3 +7,5 @@ docker.io:
       cheche/nvjdc: []
       #备份elecv2p
       elecv2/elecv2p: []
+      #备份qqbot
+      asupc/qqbot: []
