@@ -5,3 +5,5 @@ docker.io:
       whyour/qinglong: []
       #备份诺兰jdc
       cheche/nvjdc: []
+      #备份elecv2p
+      elecv2/elecv2p: []
