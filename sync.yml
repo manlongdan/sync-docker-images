@@ -9,3 +9,6 @@ docker.io:
       elecv2/elecv2p: []
       #备份qqbot
       asupc/qqbot: []
+      #备份阿东
+      rubyangxg/jd-qinglong: []
+      
