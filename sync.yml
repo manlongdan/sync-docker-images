@@ -11,4 +11,6 @@ docker.io:
       asupc/qqbot: []
       #备份阿东
       rubyangxg/jd-qinglong: []
+      #备份诺兰jdc原版
+      nolanhzy/nvjdc: []
       
