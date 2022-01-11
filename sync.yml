@@ -17,3 +17,5 @@ docker.io:
       nolanhzy/nvjdccaptcha: []
       #saobing面板
       saobing/saobing: []
+      #freenom自动续期
+      luolongfei/freenom: []
