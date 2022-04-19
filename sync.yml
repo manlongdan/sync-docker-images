@@ -19,3 +19,5 @@ docker.io:
       saobing/saobing: []
       #freenom自动续期
       luolongfei/freenom: []
+      #saobing-ARM面板
+      grbhq/saobingpro: []
