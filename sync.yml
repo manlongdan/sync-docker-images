@@ -21,3 +21,5 @@ docker.io:
       luolongfei/freenom: []
       #saobing-ARM面板
       grbhq/saobingpro: []
+      #备份诺兰nark
+      nolanhzy/nark: []
