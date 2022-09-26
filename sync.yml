@@ -3,18 +3,8 @@ docker.io:
     images:
       #备份青龙
       whyour/qinglong: []
-      #备份诺兰jdc
-      cheche/nvjdc: []
       #备份elecv2p
       elecv2/elecv2p: []
-      #备份qqbot
-      asupc/qqbot: []
-      #备份阿东
-      rubyangxg/jd-qinglong: []
-      #备份诺兰jdc原版
-      nolanhzy/nvjdc: []
-      #备份诺兰jdc原版：ARM
-      nolanhzy/nvjdccaptcha: []
       #saobing面板
       saobing/saobing: []
       #freenom自动续期
@@ -25,4 +15,7 @@ docker.io:
       nolanhzy/nark: []
       #备份xhofe/alist网盘
       xhofe/alist: []
+      #备份ARPT-Bot
+      benchao/arpt: []
+
 
