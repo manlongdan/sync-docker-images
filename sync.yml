@@ -1,8 +1,6 @@
 docker.io:
     tls-verify: false
     images:
-      #备份青龙
-      whyour/qinglong: []
       #备份elecv2p
       elecv2/elecv2p: []
       #saobing面板
