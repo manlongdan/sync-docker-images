@@ -11,8 +11,6 @@ docker.io:
       grbhq/saobingpro: []
       #备份诺兰nark
       nolanhzy/nark: []
-      #备份xhofe/alist网盘
-      xhofe/alist: []
       #备份ARPT-Bot
       benchao/arpt: []
 
