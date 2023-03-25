@@ -13,5 +13,8 @@ docker.io:
       nolanhzy/nark: []
       #备份ARPT-Bot
       benchao/arpt: []
+      #备份德鸡续期
+      p3terx/euserv-extend: []
+      
 
 
