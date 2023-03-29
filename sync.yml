@@ -14,5 +14,5 @@ docker.io:
       #备份ARPT-Bot
       benchao/arpt: []
       #备份nolan-pro
-      #nolanhzy/pro: []
+      nolanhzy/pro: []
       
