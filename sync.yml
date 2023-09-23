@@ -18,7 +18,7 @@ docker.io:
       #青龙
       #whyour/qinglong: []
       #备份nolan-pro
-      nolanhzy/pro: []
+      #nolanhzy/pro: []
       #备份hsuyelin/nas-tools
       hsuyelin/nas-tools: []
       
